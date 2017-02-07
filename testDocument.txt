@@ -1,1 +1,2 @@
-test string b
+test string b + c + d
+test string a
